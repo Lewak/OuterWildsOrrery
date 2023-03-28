@@ -1,0 +1,5 @@
+../Core/Src/button.cpp:27:5:int hasButtonChanged()	8	static
+../Core/Src/button.cpp:38:5:int isButtonHeld()	8	static
+../Core/Src/button.cpp:43:5:int hasButtonBeenReleased()	8	static
+../Core/Src/button.cpp:67:5:int wasButtonStateChanged()	0	static
+../Core/Src/button.cpp:73:5:int wasButtonHeldForPeriod(int, uint32_t)	16	static

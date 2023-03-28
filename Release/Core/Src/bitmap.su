@@ -1,0 +1,2 @@
+../Core/Src/bitmap.cpp:11:6:void drawNextBitmap()	16	static
+../Core/Src/bitmap.cpp:44:6:void drawLogo()	16	static

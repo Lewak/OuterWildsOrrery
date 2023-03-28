@@ -1,0 +1,3 @@
+../Core/Src/encoder.cpp:12:5:int wasEncoderMoved()	0	static
+../Core/Src/encoder.cpp:25:5:int getAbsoluteEncoderValue()	0	static
+../Core/Src/encoder.cpp:30:5:int getEncoderChange()	0	static
